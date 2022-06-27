@@ -1,0 +1,11 @@
+H:\Meus Projetos\AtividadeWhile\bin\Debug\AtividadeWhile.exe.config
+H:\Meus Projetos\AtividadeWhile\bin\Debug\AtividadeWhile.exe
+H:\Meus Projetos\AtividadeWhile\bin\Debug\AtividadeWhile.pdb
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.csproj.AssemblyReference.cache
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.csproj.SuggestedBindingRedirects.cache
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.Form1.resources
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.Properties.Resources.resources
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.csproj.GenerateResource.cache
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.csproj.CoreCompileInputs.cache
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.exe
+H:\Meus Projetos\AtividadeWhile\obj\Debug\AtividadeWhile.pdb
